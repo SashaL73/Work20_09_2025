@@ -52,5 +52,6 @@ public class Main {
         System.out.println("2 показать список групп");
         System.out.println("3 показать членов группы");
         System.out.println("4 выйти из программы");
+        System.out.println("5 показать всех членов и всех групп");
     }
 }
