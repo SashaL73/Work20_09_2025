@@ -6,13 +6,6 @@ public class PersonsList {
     int age;
     String group;
 
-//    public PersonsList(String addFirstName,String addSecondName, int addAge, String addGroup){
-//        this.firstName = addFirstName;
-//        this.secondName = addSecondName;
-//        this.age = addAge;
-//        this.group = addGroup;
-//    }
-
     public void setPerson(String addFirstName,String addSecondName, int addAge, String addGroup){
         this.firstName = addFirstName;
         this.secondName = addSecondName;

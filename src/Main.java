@@ -1,4 +1,5 @@
-import java.security.spec.RSAOtherPrimeInfo;
+import org.w3c.dom.ls.LSOutput;
+
 import java.util.Scanner;
 
 public class Main {
@@ -53,5 +54,6 @@ public class Main {
         System.out.println("3 показать членов группы");
         System.out.println("4 выйти из программы");
         System.out.println("5 показать всех членов и всех групп");
+        System.out.println();
     }
 }
